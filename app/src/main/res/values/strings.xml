@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">datafecth</string>
+    <string name="username">\nusername\n</string>
+    <string name="input_username">input username\n</string>
+    <string name="Firstname">First Name</string>
+    <string name="fetch_data">Fetch Data\n</string>
+    <string name="short_bio">short bio:</string>
+    <string name="phonenumber">phoneNumber:</string>
+    <string name="gender">gender:</string>
+    <string name="Username">username:</string>
+    <string name="Gender">Gender:</string>
+</resources>
